@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A solemn testimony against toleration and the present proceedings of sectaries and their abettors in England in reference to religion and government with an admonition and exhortation to their brethren there from the Commissioners of the General Assembly of the Kirk of Scotland : with the return of the Honourable Estates of Parliament upon the said testimony communicated to them, and their concurrence with the same : together with the paper of the 5. of July given in by the Commissioners for the kingdom of Scotland to the speaker of the House of Commons mentioned in the said return.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69760</idno>
+            <idno type="STC">Wing C4268</idno>
+            <idno type="STC">Wing N366A</idno>
+            <idno type="STC">ESTC R35589</idno>
+            <idno type="EEBO-CITATION">15479729</idno>
+            <idno type="OCLC">ocm 15479729</idno>
+            <idno type="VID">103549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:14, 1148:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A solemn testimony against toleration and the present proceedings of sectaries and their abettors in England in reference to religion and government with an admonition and exhortation to their brethren there from the Commissioners of the General Assembly of the Kirk of Scotland : with the return of the Honourable Estates of Parliament upon the said testimony communicated to them, and their concurrence with the same : together with the paper of the 5. of July given in by the Commissioners for the kingdom of Scotland to the speaker of the House of Commons mentioned in the said return.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>[4], 18, 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First part signed: A. Ker.</note>
+                  <note>First part has caption title, "A necessary and seasonable testimony against toleration and the present proceedings of sectaries and their abettors in England," and appears as N366A in Wing (2nd ed.).</note>
+                  <note>"The return of the Estates of Parliament upon the testimony communicated unto them by the Commissioners of the Generall Assembly ..." also appears at reel 1748:14 incorrectly identified as Wing (2nd ed.) N366A.</note>
+                  <note>"The paper of the 5. of July" has separate pagination, and is signed: Lothian, Jo: Cheisly, William Glendoning.</note>
+                  <note>Imperfect: torn, with slight loss of print.</note>
+                  <note>Complete work is at reel 1148:26; reel 1748:14 has "Return of the Estates of Parliament ..." only.</note>
+                  <note>Reproduction of originals in the Huntington Library and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  England.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="15" facs="tcp:103549:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <opener>
+               <dateline>
+                  <hi>Edinb.</hi> 
+                  <date>18. <hi>January,</hi> 1649.</date>
+               </dateline>
+            </opener>
+            <head>THE RETURN OF THE ESTATES of PARLIAMENT UPON THE TESTIMONY, Communicated unto them by the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Generall Aſſembly, and their concurrence with the ſame.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Eſtates of Parliament preſently conveened. Taking to their moſt ſerious conſideration <hi>the ſea<g ref="char:EOLhyphen"/>ſonable Teſtimony againſt Toleration, and the preſent proceeding of Sectaries and their Abettors in</hi> England, <hi>in reference to Religion and Government, With an Ad<g ref="char:EOLhyphen"/>monition and Exhortation to their Brethren there from the Commiſsioners of the Generall Aſſembly of the Church of Scotland</hi> communicated unto them by you; And ponder<g ref="char:EOLhyphen"/>ing
+<pb n="16" facs="tcp:103549:2"/>
+               <!-- PDF PAGE 60 -->the preſent ſad and ſtrange condition of affairs in their neigh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bour Kingdom of <hi>England</hi> repreſented therein, &amp; in ſeveral other Pa<g ref="char:EOLhyphen"/>pers come to their knowledge; They do return unto you thei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearty thanks both for your good correſpondence (which the Par<g ref="char:EOLhyphen"/>liament will with all cheerfulneſs entertain) and for your great car<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and faithfulneſs in giving ſuch neceſſary and ſeaſonably Warning and Teſtimonies againſt the dangers of the times on all hands at al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> occaſions, And do heartily Concur in the grounds thereof againſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Toleration and the preſent proceedings of Sectaries in <hi>England</hi> in reference to Religion and Government, and in the Admonitions and Encouragements ſo fully expreſt in the ſaid Paper: And do moſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> willingly adde this our Teſtimony thereunto; That our Brethren o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>England</hi> may be the more moved by the mouth of two Witneſſes and eſpecially ſuch as together with them ſtand and fall, and are covenanted with them for mutuall good, to lay thoſe things to heart, and to abſtain from all ſuch ſinfull and dangerous courſes, And the faithfull not to faint under theſe afflictions, or to omit any neceſſary Teſtimonies or Duty againſt the corruption of the time; And becauſe there have been ſeverall aſperſions publiſhed in Printed Pamphlets, for the ſtrengthening of the hands of thoſe who go on in theſe ſinfull wayes, and for diſcouraging the hearts of theſe who are ſuffering under them; Therefore the Eſtates of Parliament after diligent enquiry at all the Members of this Court upon their publick and ſolemn Oath, both concerning themſelves and others: Do De<g ref="char:EOLhyphen"/>clare, and can aſſure their Brethren of <hi>England,</hi> that they cannot finde that either this Kingdom or any perſon thereof, had any know<g ref="char:EOLhyphen"/>ledge of, or acceſsion unto the late proceedings of the Engliſh Army in relation to the Kings Perſon, or the Houſes and reſtrained Mem<g ref="char:EOLhyphen"/>bers thereof, But are very confident there is no ground for ſuch aſ<g ref="char:EOLhyphen"/>perſions. On the other hand ſo ſoon as this Parliament was conveen<g ref="char:EOLhyphen"/>ed and conſtituted, and heard of the preſent poſture of affairs, They being no wayes ſatisfied with their proceedings, and the reaſons thereof, publiſhed to the world, And being convinced of the dan<g ref="char:EOLhyphen"/>gerous conſequences thereof, and calamities likely to follow there<g ref="char:EOLhyphen"/>upon
+<pb n="17" facs="tcp:103549:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 60 -->They did give preſent inſtructions to their Commiſsioners up<g ref="char:EOLhyphen"/>on many reaſons founded on the Obligations and Declarations made between, and by both Kingdoms (of which the matter of Fact is fully expreſſed by the Paper given in by our Commiſsioners on the 5. of <hi>January</hi> inſtant, to the Speaker of the Houſe of Commons in our name, and according to our minde, herewith communicated to you) to preſſe a delay of all procedours againſt the Kings Perſon, the Prince his right of ſucceſsion, or the funda<g ref="char:EOLhyphen"/>mentall Government of the Kingdom, untill this Kingdom were heard to repreſent their intereſt and deſires; And in caſe of their re<g ref="char:EOLhyphen"/>fuſall that they ſhould enter in the name of this Kingdom their diſ<g ref="char:EOLhyphen"/>ſent, and Proteſt, That as this Nation is free from all knowledge of, and acceſsion to theſe deſignes and practiſes, So they may be free of all the Calamities, Miſeries and Confuſions which may follow thereupon to theſe diſtracted Kingdoms. And as our conſtant re<g ref="char:EOLhyphen"/>ſolution and earneſt deſire to preſerve inviolably the Peace and U<g ref="char:EOLhyphen"/>nion between the Kingdoms, will evidently appear to any who will read (beſide all our former Actions and ſufferings for it) our Act of Indiction of this preſent Parliament, and our Act repealing all paſt in the laſt Parliament or Committee of Eſtates for the late unlawfull Engagement againſt <hi>England.</hi> And as ye are witneſſes of our keeping a Solemn day of Humiliation, not only for our own ſins and miſeries, but alſo for the ſins and diſtreſſes lying on our dear Brethren, and for ſeeking the Lords Direction to us, that we may know and perform all the duties which the LORD re<g ref="char:EOLhyphen"/>quires of us at ſuch a time, after ſuch Iudgements and De<g ref="char:EOLhyphen"/>liverances on his part, ſuch an Acknowledgement and renewed Covenant on our part, not onely in relation to our own affairs at home, but alſo to what may concern Religion, King and King<g ref="char:EOLhyphen"/>doms, according to the ſolemn League and Covenant in theſe united Nations; So We Declare that it is our conſtant reſolutions, with Gods aſſiſtance to give all ſeaſonable Teſtimonies, and do all neceſ<g ref="char:EOLhyphen"/>ſary duties within our power and calling, for the preſervation of the begun Reformation againſt Toleration of all Religion, and of the
+<pb n="18" facs="tcp:103549:3"/>
+               <!-- PDF PAGE 61 -->fundamentall Government againſt Anarchy and confuſion. And for continuing and preſerving the Peace and Union between theſe Kingdoms, and all the Bands thereof, ſo often acknowledged and expreſſed in their Treaties, eſpecially <hi>one King, one Covenant, one Religion,</hi> And for the obſervance of the manifold Declarations emitted between and by both Kingdoms to the World, in the poſi<g ref="char:EOLhyphen"/>tive and neceſſary duties for purſuance of all the Ends of the ſolemn League and Covenant. And to this effect we are and ſhall be moſt ready to deal and interpoſe in all earneſtneſs and ſincerity of heart, and by all lawfull and neceſſary means with all whom it may con<g ref="char:EOLhyphen"/>cern, for ſetling Peace and Truth in theſe Kingdoms, upon the grounds and Propoſitions ſo often agreed unto, and ſo long inſiſted upon by theſe two Nations, and upon what further ſhall be found ſafe and neceſſary for the removing of theſe diſtempers, and prevent<g ref="char:EOLhyphen"/>ing new iſſues of blood, Calamities and Confuſions in theſe King<g ref="char:EOLhyphen"/>doms, which the Searcher of hearts knoweth to be the earneſt de<g ref="char:EOLhyphen"/>fire, and firm reſolution of this Court and Kingdom.</p>
+            <closer>
+               <signed>
+                  <hi>Lowdoun</hi> Cancell. I.P.D.P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103549:3"/>
+            <!-- PDF PAGE 61 -->
+         </div>
+      </body>
+   </text>
+</TEI>
